@@ -1,0 +1,7 @@
+name: Colors
+version: '${project.version}'
+main: com.meteoritepvp.colorsplugin.ColorsPlugin
+api-version: 1.19
+depend: [ MeteoriteAPI ]
+authors: [ Technosword ]
+description: A sample plugin for Meteoritepvp with their API
